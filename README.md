@@ -6,9 +6,9 @@
 
 An interactive Prompt Engineering laboratory built with Streamlit and Groq for experimenting with professional prompting techniques across multiple Large Language Models.
 
-Python
-Streamlit
-Groq
+Python |
+Streamlit |
+Groq |
 Prompt Engineering
 
 </div>
