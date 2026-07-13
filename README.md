@@ -22,7 +22,7 @@ An interactive AI application for designing, testing, and optimizing prompts usi
 - python-dotenv
 
 ## 🚀 Run Locally
-
+- Add you GROQ API KEY to .env file
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
